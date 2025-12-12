@@ -1,14 +1,14 @@
 {
+  "homepage": "https://matfels.github.io/ListaApp/",
   "name": "comprar",
   "version": "1.0.0",
-  "homepage": "https://matfels.github.io/ListaApp/",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "predeploy": "expo export --platform web",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
