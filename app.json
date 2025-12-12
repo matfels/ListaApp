@@ -28,7 +28,7 @@
       "favicon": "./assets/favicon.png"
     },
     "experiments": {
-      "baseUrl": "/Lista-de-Compras/"
+      "baseUrl": "/ListaApp"
     }
     
   }

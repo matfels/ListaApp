@@ -1,7 +1,7 @@
 {
   "name": "comprar",
   "version": "1.0.0",
-  "homepage": "https://matfels.github.io/ListaApp",
+  "homepage": "https://matfels.github.io/ListaApp/",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
